@@ -5,7 +5,7 @@ University of Waterloo - Computer Science
 Actively seeking software engineering opportunities.
 
 ### Connect with me!
-<div class="flex>
+
   <a href="https://www.linkedin.com/in/nicholas-hioe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -15,4 +15,5 @@ Actively seeking software engineering opportunities.
   <a href="https://nicholashioe.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-</div>
+
+
